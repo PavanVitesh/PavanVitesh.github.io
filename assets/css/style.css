@@ -332,7 +332,7 @@ main {
 }
 
 .avatar-box {
-  background: var(--bg-gradient-onyx);
+  /* background: var(--bg-gradient-onyx); */
   border-radius: 20px;
 }
 
@@ -836,6 +836,15 @@ main {
   line-height: 1.6;
 }
 
+/**
+ * patents
+ */
+
+ .patents { margin-bottom: 30px;}
+
+ .patents-title { margin-bottom: 20px; }
+
+ .patents-text { padding: 20px; }
 
 /**
  * skills 
